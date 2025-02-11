@@ -1,4 +1,4 @@
 # mans
 This is my first git repository
 <br>
-Autor-Bandi Manasa
+Author-Bandi Manasa
